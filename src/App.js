@@ -9,7 +9,7 @@ import Registro from './componentes/Login y Registro/Registro';
 function App() {
   return (
     <>
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/taverni_final">
         <Routes>
           <Route path="/" element={<ListaProductos />} />
           <Route path="/ListaProductos" element={<ListaProductos />} />
