@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taverni_final/static/css/main.96e611b8.css",
+    "main.js": "/taverni_final/static/js/main.1d6fd8c4.js",
+    "static/js/787.12f3fc55.chunk.js": "/taverni_final/static/js/787.12f3fc55.chunk.js",
+    "index.html": "/taverni_final/index.html",
+    "main.96e611b8.css.map": "/taverni_final/static/css/main.96e611b8.css.map",
+    "main.1d6fd8c4.js.map": "/taverni_final/static/js/main.1d6fd8c4.js.map",
+    "787.12f3fc55.chunk.js.map": "/taverni_final/static/js/787.12f3fc55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e611b8.css",
+    "static/js/main.1d6fd8c4.js"
+  ]
+}
