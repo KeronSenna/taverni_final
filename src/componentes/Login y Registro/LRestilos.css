@@ -1,0 +1,57 @@
+body {
+    margin: auto;
+    padding: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tituloReg {
+    text-align: center;
+    font-size: 6rem;
+    padding: 2rem;
+    padding-top: 5rem;
+}
+
+.tituloLog {
+    text-align: center;
+    font-size: 6rem;
+    padding-top: 5rem;
+}
+
+.formulario {
+    text-align: center;
+    font-size: 30px;
+    padding: 7rem;
+}
+
+.formulario h1 {
+    font-size: 60px;
+}
+
+.input-field {
+    width: 98%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.error-message {
+    text-align: left;
+    color: darkred;
+    font-size: 21px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.submit-button {
+    margin-top: 4rem;
+    font-size: 4rem;
+    padding: 35px 45px;
+    background-color: #3e9341;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#mensaje {
+    margin-top: 10px;
+    font-weight: bold;
+}
